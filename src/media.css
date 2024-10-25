@@ -1,0 +1,8 @@
+@media screen and (max-width: 500px) {
+  
+  .notification.message {
+    .message {
+      margin-left: 10px !important;
+    }
+  }
+}
